@@ -1,0 +1,1 @@
+export default ["Spades","Hearts","Clubs","Diamonds"];
